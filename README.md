@@ -90,9 +90,7 @@ The application uses a custom Socket that:
 - Dispatches actions to the Redux store to update state
 
 ### Preview and Explaination Link
-<img src="../crypto-tracker//public/Gif.gif">
-
-[Link](https://drive.google.com/file/d/1zQJ4XzmdTa_HcfFJTdfEi27yIApNdwX6/view?usp=sharing)
+[VIDEO PREVIEW](https://drive.google.com/file/d/1zQJ4XzmdTa_HcfFJTdfEi27yIApNdwX6/view?usp=sharing)
 
 
 ## Acknowledgments
